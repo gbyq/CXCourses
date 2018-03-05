@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\BUPTIET\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.0\8d988e1e13f64c0e8e9d935e347f510f712b376b\analytics-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d988e1e13f64c0e8e9d935e347f510f712b376b">
+        <dex dex="C:\workspace\CXCourses\app\build\intermediates\pre-dexed\debug\analytics-6.1.0-456c87ef13cba0b24bbd1e7fbc69bed6674975cb.jar" />
+    </item>
+
+</items>
